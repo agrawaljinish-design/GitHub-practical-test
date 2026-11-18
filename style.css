@@ -27,3 +27,20 @@ button
     background-color: #5f5d5d;
     color: white;
 }
+nav {
+    background-color: #243b55;
+    padding: 15px;
+    text-align: center;
+    margin: 15px 0;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: yellow;
+}
