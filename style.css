@@ -1,0 +1,29 @@
+
+body 
+{
+    background-color: #eeecd8;
+    padding: 30px;
+}
+
+h2 
+{
+    color: #2b1b65;
+}
+
+button 
+{
+    background-color: #095a0f;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+.dark-mode {
+    background-color: #222;
+    color: white;
+}
+
+.dark-mode section {
+    background-color: #5f5d5d;
+    color: white;
+}
