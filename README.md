@@ -18,8 +18,8 @@ A simple personal portfolio website using HTML,CSS,JAVASCRIPT .
 - Skills
 - Contact
 - Interactive button
-
-
+- Navigation Bar
+- Footer
 
 
 
